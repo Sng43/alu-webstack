@@ -45,4 +45,3 @@ backend app
     balance roundrobin
     server 6077-web-01 3.90.27.27:80 check
     server 6077-web-02 184.72.164.90:80 check
-
